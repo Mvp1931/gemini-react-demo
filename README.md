@@ -3,6 +3,7 @@
 This is a React app with Gemini AI API, that will have a conversation with you given Inputted Prompts.
 
 to install and run,
+
     - Clone this repository into your PC with git clone [/this/repo/url](https://github.com/Mvp1931/gemini-react-demo.git).
     - Create an .env file to store your Gemini API key.
     - Download API key from Google [Get-Gemini-Key](https://aistudio.google.com/app/apikey) website.
